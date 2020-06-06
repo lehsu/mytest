@@ -31,6 +31,7 @@ github_username:  lehsu
 # Author is the default for posts, the Atom feed, and the footer.
 author: lehsu
 permalink: /blog/:year/:month/:day/:title
+paginate_path: "/blog/page:num/"
 
 
 # Build settings
@@ -38,6 +39,7 @@ permalink: /blog/:year/:month/:day/:title
 # theme: minima
 plugins:
   - jekyll-feed
+  -jekyll-paginate
 
 # Exclude from processing.
 # The following items will not be processed, by default.
