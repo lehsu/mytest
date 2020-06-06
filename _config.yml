@@ -27,6 +27,11 @@ url: "https://lehsu.github.io" # the base hostname & protocol for your site, e.g
 twitter_username: jekyllrb
 github_username:  lehsu
 
+# Fields minima uses, but are not defaulted with the jekyll new command.
+# Author is the default for posts, the Atom feed, and the footer.
+author: lehsu
+
+
 # Build settings
 # remove gem based minima theme in favor of regular theme
 # theme: minima
