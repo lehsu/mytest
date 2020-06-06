@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to mytest blog site!
 baseurl: "/mytest" # the subpath of your site, e.g. /blog
 url: "https://lehsu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+# twitter_username: jekyllrb
 github_username:  lehsu
 
 # Fields minima uses, but are not defaulted with the jekyll new command.
